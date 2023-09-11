@@ -1,16 +1,24 @@
-# dilevery
+# DeliveryPro App
 
-A new Flutter project.
+![DeliveryPro Screens](Delivery.png)
+
+## About
+DeliveryPro is a Flutter app designed to streamline the management of delivery leads. It allows you to easily view and update the status of your delivery tasks, making your delivery workflow more efficient.
+
+## Features
+- View a list of all delivery leads.
+- Change the status of delivery leads (e.g., Pending, In Progress, Delivered).
+
 
 ## Getting Started
+To get started with DeliveryPro, follow these steps:
 
-This project is a starting point for a Flutter application.
+1. Clone this repository.
+2. Install Flutter and Dart if you haven't already.
+3. Run `flutter pub get` to install dependencies.
+4. Modify the app to suit your specific needs.
+5. Run the app on your preferred emulator or physical device.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
